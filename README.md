@@ -14,7 +14,7 @@ python main.py
 ***
 ### Diagram:
 The implemented approach was a hybrid Delta Lake as the below diagram:
-![alt text](https://github.com/arturogonzalezm/transactions/blob/main/images/delta_lake.png?raw=true)
+![alt text](https://github.com/arturogonzalezm/challenge_transactions/blob/main/images/delta_lake.png?raw=true)
 ***
 ### Results:
 ```
