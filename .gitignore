@@ -3,3 +3,4 @@
 .gitignore
 /.ipynb_checkpoints/
 /etl/notebooks/.ipynb_checkpoints/
+etl/notebooks/.ipynb_checkpoints
