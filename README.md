@@ -28,29 +28,29 @@ Delta Lake like dataflow:
 ### Project/Folder structure:
 ```
 └── transactions_notebooks/
-├── data/
-│   ├── bronze/
-│   ├── gold/
-│   ├── raw/
-│   │   └── Transaction.csv
-│   ├── response/
-│   └── silver/
-├── docs/
-│   └── SISU Coding Assessment Instructions.pdf
-├── images/
-│   └── delta_lake.png
-├── misc/
-│   ├── __init__.py
-│   └── constants.py
-├── notebooks/
-│   ├── BI/
-│   │   ├── fastest_response_report.ipynb
-│   │   └── top_agents_report.ipynb
-│   └── ETL/
-│       └── transaction_pipelines.ipynb
-├── README.md
-├── requirements.txt
-└── schema_definition/
-├── __init__.py
-└── schema.py
+    ├── data/
+    │   ├── bronze/
+    │   ├── gold/
+    │   ├── raw/
+    │   │   └── Transaction.csv
+    │   ├── response/
+    │   └── silver/
+    ├── docs/
+    │   └── SISU Coding Assessment Instructions.pdf
+    ├── images/
+    │   └── delta_lake.png
+    ├── misc/
+    │   ├── __init__.py
+    │   └── constants.py
+    ├── notebooks/
+    │   ├── BI/
+    │   │   ├── fastest_response_report.ipynb
+    │   │   └── top_agents_report.ipynb
+    │   └── ETL/
+    │       └── transaction_pipelines.ipynb
+    ├── README.md
+    ├── requirements.txt
+    └── schema_definition/
+    ├── __init__.py
+    └── schema.py
 ```
