@@ -10,9 +10,6 @@
 called 2.json
 - List post codes based on fastest response . Hint ( Refer columns Request date and implementation Date )
 - Top Agents based on postcode and amount
-```
-python main.py
-```
 ***
 ### Local dev environment:
 - JetBrains DataSpell and Jupyter Notebooks
