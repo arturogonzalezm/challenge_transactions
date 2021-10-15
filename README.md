@@ -20,7 +20,7 @@ called 2.json
 ***
 ### Delta Lake:
 Delta Lake like dataflow:
-![alt text](https://github.com/arturogonzalezm/challenge_transactions/blob/master/images/delta_lake.png?raw=true)
+![alt text](https://github.com/arturogonzalezm/challenge_transactions/blob/master/images/delta_lake_.png?raw=true)
 ***
 ### Project/Folder structure:
 ```
