@@ -25,4 +25,32 @@ python main.py
 Delta Lake like dataflow:
 ![alt text](https://github.com/arturogonzalezm/challenge_transactions/blob/master/images/delta_lake.png?raw=true)
 ***
-### Project structure:
+### Project/Folder structure:
+```
+└── transactions_notebooks/
+├── data/
+│   ├── bronze/
+│   ├── gold/
+│   ├── raw/
+│   │   └── Transaction.csv
+│   ├── response/
+│   └── silver/
+├── docs/
+│   └── SISU Coding Assessment Instructions.pdf
+├── images/
+│   └── delta_lake.png
+├── misc/
+│   ├── __init__.py
+│   └── constants.py
+├── notebooks/
+│   ├── BI/
+│   │   ├── fastest_response_report.ipynb
+│   │   └── top_agents_report.ipynb
+│   └── ETL/
+│       └── transaction_pipelines.ipynb
+├── README.md
+├── requirements.txt
+└── schema_definition/
+├── __init__.py
+└── schema.py
+```
