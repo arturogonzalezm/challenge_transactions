@@ -1,5 +1,5 @@
 ## Data Engineering and Analytics ##
-***
+
 ### Instructions:
 - Augment the data with a hash key
 - Filter out the questionable data
