@@ -2,4 +2,4 @@
 /.idea
 .gitignore
 /.ipynb_checkpoints/
-/notebooks/.ipynb_checkpoints/
+/etl/notebooks/.ipynb_checkpoints/
