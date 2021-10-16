@@ -1,6 +1,11 @@
 ## Data Engineering and Analytics ##
 
-### Instructions:
+### Overview:
+- The main purpose of the following implementation is to focus on the data life cycle across the different layers withing 
+the ETL pipeline.
+- The current implementation has been done locally trying to simulate the Delta Lake approach.
+***
+### Requirements:
 - Augment the data with a hash key
 - Filter out the questionable data
 - Write the data in a JSON file one record at a time
@@ -19,8 +24,17 @@ called 2.json
 - Tested on Ubuntu Linux
 ***
 ### Delta Lake:
-Delta Lake like dataflow:
+Delta Lake dataflow:
 ![alt text](https://github.com/arturogonzalezm/transactions_notebooks/blob/master/images/delta_lake_.png?raw=true)
+- The notebook that is performing the ETL jobs is:
+```
+notebooks/ETL/transaction_pipelines.ipynb
+```
+- The notebooks that are calculating the fastest response and Top Agents based on postcode and amount as part of the 
+presentation/reporting layer are:
+```
+notebooks/ETL/fastest_response_report.ipynb and notebooks/ETL/top_agents_report.ipynb
+```
 ***
 ### Project/Folder structure:
 ```
