@@ -1,3 +1,4 @@
 pyspark~=3.1.2
 functions~=0.7.0
 koalas~=1.8.1
+plotly~=5.3.1
