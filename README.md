@@ -20,7 +20,7 @@ called 2.json
 - JetBrains DataSpell and Jupyter Notebooks
 - Apache Spark 3.1.2
 - Python 3.8
-- MacOs Silicon Processor
+- MacOs
 - Tested on Ubuntu Linux
 ***
 ### Delta Lake:
