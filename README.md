@@ -46,8 +46,6 @@ notebooks/BI/fastest_response_report.ipynb and notebooks/BI/top_agents_report.ip
     │   │   └── Transaction.csv
     │   ├── response/
     │   └── silver/
-    ├── docs/
-    │   └── SISU Coding Assessment Instructions.pdf
     ├── images/
     │   └── delta_lake.png
     ├── misc/
