@@ -33,7 +33,7 @@ notebooks/ETL/transaction_pipelines.ipynb
 - The notebooks that are calculating the fastest response and Top Agents based on postcode and amount as part of the 
 presentation/reporting layer are:
 ```
-notebooks/ETL/fastest_response_report.ipynb and notebooks/ETL/top_agents_report.ipynb
+notebooks/BI/fastest_response_report.ipynb and notebooks/BI/top_agents_report.ipynb
 ```
 ***
 ### Project/Folder structure:
