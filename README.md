@@ -25,7 +25,7 @@ called 2.json
 ***
 ### Delta Lake:
 Delta Lake dataflow:
-![alt text](https://github.com/arturogonzalezm/transactions_notebooks/blob/master/images/delta_lake_.png?raw=true)
+![alt text](https://github.com/arturogonzalezm/transactions_notebooks/blob/master/images/delta_lake.png?raw=true)
 - The notebook that is performing the ETL jobs is:
 ```
 notebooks/ETL/transaction_pipelines.ipynb
